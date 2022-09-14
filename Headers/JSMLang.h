@@ -1,5 +1,6 @@
 /**********************************************
 * A Basic Header for JSML Programming Languange.
+* Language: C++
 * Usage: #include<JSMLang>
 * (#) Initally Written By AlohomoraPZX.
 * (#) Latest Updated at Sept 14, 2022.  
